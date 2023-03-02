@@ -1,8 +1,9 @@
-import Redux from "./Materi/Redux";
+import Redux from "./redux/Index";
+
 
 function App() {
   return (
-    <div className="App">
+    <div >
       <Redux/>
     </div>
   );
